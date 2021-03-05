@@ -1,0 +1,21 @@
+
+table.square {
+boreder: 1px;
+background-color: palepinkviolet;
+}
+.small{
+height: 2px;
+width: 2px;
+
+}
+.big {
+height: 2px;
+width: 4px;
+position: relative;
+}
+td.square{
+height: 2px;
+width: 2px;
+position: relative;
+
+}
